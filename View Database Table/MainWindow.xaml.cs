@@ -162,7 +162,8 @@ namespace View_Database_Table
                     StringBuilder sb = new StringBuilder();
                     for (int i = 0; i < output_Table.Columns.Count; i++)
                     {
-                        sb.Append(output_Table.Columns[i]);
+                        string data = output_Table.Columns[i].ToString().Replace("\"", "\"\"");
+                        sb.Append("\"" + data + "\"");
                         if (i < output_Table.Columns.Count - 1)
                             sb.Append(",");
                     }
@@ -171,7 +172,8 @@ namespace View_Database_Table
                     {
                         for (int i = 0; i < output_Table.Columns.Count; i++)
                         {
-                            sb.Append(dr[i].ToString());
+                            string data = dr[i].ToString().Replace("\"", "\"\"");
+                            sb.Append("\"" + data + "\"");
 
                             if (i < output_Table.Columns.Count - 1)
                                 sb.Append(",");

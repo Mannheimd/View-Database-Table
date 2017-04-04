@@ -11,3 +11,4 @@ C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\
 C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Release\View Database Table.csproj.GenerateResource.Cache
 C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Release\View Database Table.exe
 C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Release\View Database Table.pdb
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Release\View Database Table.csprojResolveAssemblyReference.cache
