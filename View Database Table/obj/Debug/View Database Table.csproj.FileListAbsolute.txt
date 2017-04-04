@@ -1,0 +1,14 @@
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\bin\Debug\View Database Table.exe.config
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\bin\Debug\View Database Table.exe
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\bin\Debug\View Database Table.pdb
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Debug\View Database Table.csprojResolveAssemblyReference.cache
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Debug\MainWindow.g.cs
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Debug\App.g.cs
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Debug\View Database Table_MarkupCompile.cache
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Debug\View Database Table_MarkupCompile.lref
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Debug\MainWindow.baml
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Debug\View Database Table.g.resources
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Debug\View_Database_Table.Properties.Resources.resources
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Debug\View Database Table.csproj.GenerateResource.Cache
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Debug\View Database Table.exe
+C:\Users\christopher.manders\Dropbox (Personal)\Development\View Database Table\View Database Table\obj\Debug\View Database Table.pdb

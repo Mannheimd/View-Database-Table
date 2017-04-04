@@ -1,0 +1,19 @@
+﻿<Window x:Class="View_Database_Table.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:View_Database_Table"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1300">
+    <Grid>
+        <Label Content="Select a database:" Margin="10,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:Name="refresh" Content="Refresh" HorizontalAlignment="Left" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="80" Click="refresh_Click" Height="22"/>
+        <ListBox x:Name="databaseNameList" Margin="10,41,0,37" HorizontalAlignment="Left" Width="250" SelectionChanged="databaseList_SelectionChanged"/>
+        <DataGrid x:Name="outputDataGrid" Margin="520,41,10,37" IsReadOnly="True" HeadersVisibility="Column"/>
+        <ListBox x:Name="tableNameList" Margin="265,41,0,37" HorizontalAlignment="Left" Width="250"/>
+        <Label Content="Select a table:" Margin="265,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:Name="load_Button" Content="Load" HorizontalAlignment="Left" Margin="435,0,0,10" VerticalAlignment="Bottom" Width="80" Click="loadButton_Click" Height="22"/>
+        <Button x:Name="export_Button" Content="Export" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="80" Click="exportButton_Click" Height="22"/>
+    </Grid>
+</Window>
