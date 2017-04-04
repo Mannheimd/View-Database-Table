@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:View_Database_Table"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="1300">
+        Title="View Database Table" MinHeight="200" MinWidth="600" Height="600" Width="1300">
     <Grid>
         <Label Content="Select a database:" Margin="10,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
         <Button x:Name="refresh" Content="Refresh" HorizontalAlignment="Left" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="80" Click="refresh_Click" Height="22"/>
